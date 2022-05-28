@@ -1,0 +1,103 @@
+.body{
+    background-color:  #f1e8ed;
+    text-transform: uppercase;
+}
+.hd{
+    background-image: url(sky.webp);
+    width: 500;
+
+    background-repeat: space;
+    background-size: cover;
+    background-position: center;
+}
+
+#firstid{
+    font-family: cursive;
+    font-size: -webkit-xxx-large;
+}
+#name{
+    font-family: ui-monospace;
+}
+
+#pi0{
+    font-size: x-large;
+    font-style: initial;
+    padding: initial;
+    padding-top: initial;
+    padding-right: initial;
+    padding-bottom: initial;
+    padding-left: initial;
+    background-color: #cec8cb;;
+    margin: 18px;
+    margin-top: 18px;
+    margin-right: 18px;
+    margin-bottom: 18px;
+    margin-left: 18px;
+
+    border: #57070700;
+}
+#circle{
+    font-size: 14px;
+    font-weight: bold;
+    font-weight: 700;
+    line-height: 1.9;
+    list-style-type: disc
+}
+#edu{
+    font-size: x-large;
+    font-style: initial;
+    padding: initial;
+    background-color: #cec8cb;
+    margin: 18px;
+}
+#edu1{
+    font-size: 14px;
+    font-weight: bold;
+    font-weight: 700;
+    line-height: 1.9;
+    list-style-type: disc;
+}
+
+#INTERESTS{
+    font-size: x-large;
+    font-style: initial;
+    padding: initial;
+    background-color: #cec8cb;
+    margin: 18px;
+}
+#int1{
+    font-size: 14px;
+    font-weight: bold;
+    font-weight: 700;
+    line-height: 1.9;
+    list-style-type: disc;
+}
+#HOBBIES{
+    font-size: x-large;
+    font-style: initial;
+    padding: initial;
+    background-color: #cec8cb;
+    margin: 18px;
+
+}
+#hob{
+    font-size: 14px;
+    font-weight: bold;
+    font-weight: 700;
+    line-height: 1.9;
+    list-style-type: disc
+}
+#SKILLS{
+    font-size: x-large;
+    font-style: initial;
+    padding: initial;
+    background-color: #cec8cb;
+    margin: 18px;
+}
+#skill{
+    font-size: 14px;
+    font-weight: bold;
+    font-weight: 700;
+    line-height: 1.9;
+    list-style-type: disc
+}
